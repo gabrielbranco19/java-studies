@@ -22,7 +22,7 @@ public class exs06 {
 		double areatr = (a*c)/2;
 		double areacirc = pi*raio;
 		double areatrap = ((a+b)*c)/2;
-		double areaquad = b*4;
+		double areaquad = b*b;
 		double arearet = a*b; 
 		/* no exercicio, na area do retangulo, não estava especificando qual era base e altura.
 		 * então fiz A multiplicado por B, entendendo que A é a base e B altura.
