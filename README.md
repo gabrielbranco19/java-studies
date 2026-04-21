@@ -10,7 +10,7 @@ Repositório dedicado à minha jornada de aprendizado em Java. Este repositório
 
 ---
 
-# 🇺🇸
+# EN
 
 # ☕ java-studies
 
